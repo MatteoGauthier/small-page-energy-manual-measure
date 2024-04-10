@@ -1,0 +1,14 @@
+{
+  "name": "small-page-energy-manual-measure",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "puppeteer": "^22.6.3"
+  }
+}
